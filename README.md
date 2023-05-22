@@ -46,7 +46,7 @@ In addition to my technical abilities, I possess strong analytical and logical t
 
 </td><td valign="top" width="50%">
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31wpf6djhwlp324cu2wq654kzt3a&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true" align="center" style="width: 100%" />
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31wpf6djhwlp324cu2wq654kzt3a&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true" align="center" style="width: 100%" />
 
 </td></tr></table>  
 
